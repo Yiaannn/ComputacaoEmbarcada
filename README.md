@@ -1,0 +1,16 @@
+Entregas Computação Embarcada
+
+
+| Aula                     | Handout                                                                                                                | Entrega Parcial | Entrega Final | Pesquisa |
+|--------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------|---------------|----------|
+| 01 - Introdução          | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/01-Introducao/01-Handout-Embarcados-DayOne.pdf) |                 |               |          |
+| 02 - Mutirão C           | Sim                                                                                                                    |                 |               |          |
+| 03 - IOs Digitais        | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/03-IO-Digital/03-Pesquisa-Perifericos.pdf)      |                 | Sim           | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/03-IO-Digital/03-Pesquisa-Intro-Embarcados.pdf) [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/03-IO-Digital/03-Handout-IOs-Digital.pdf) |
+| 04 - Projeto A           |                                                                                                                        |                 |               |          |
+| 05 - PIO - In/Out        | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/05-PIO/04-Handout-PIO.pdf)                                                                                                                    |                 | Sim           | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/05-PIO/04-Pesquisa-PIO.pdf)      |
+| 06 - Projeto A           |                                                                                                                        |                 |               |          |
+| 07 - PIO - IRQ           | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/07-PIO-IRQ/06-Handout-PIO-Irq.pdf)                                                                                                                    | Sim             | Sim           | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/07-PIO-IRQ/06-Pesquisa-PIO-Irq.pdf)      |
+| 08 - Projeto Idealização |                                                                                                                        |                 |               |          |
+| 09 - TickTack            | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/09-TickTack/08-Handout-TickTack.pdf)                                                                                                                    | Sim             | Sim           | [Sim](https://gitlab.com/Insper/Computacao-Embarcada/blob/master/Aulas/09-TickTack/08-Pesquisa-TickTack.pdf)      |
+
+As entregas parciais/finais estão descritas no handout da aula.
