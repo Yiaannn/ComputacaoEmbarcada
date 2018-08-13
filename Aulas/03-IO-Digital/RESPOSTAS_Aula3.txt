@@ -1,0 +1,33 @@
+Aula 3 - Respostas
+
+--Pergunta 1:
+
+	O LED é ativado por meio do pino PC8, mudando o seu estado lógico entre HIGH e LOW
+
+--Pergunta 2:
+
+	O pino em LOW equivale ao LED aceso (do manual: "It can be activated by driving the connected I/O line to a low level.").
+
+--Pergunta 3:
+
+	SAM E70 Pin			Function
+
+	LOW				LED ON
+
+	HIGH				LED OFF
+
+--Pergunta 4:
+
+	Periférico			ID
+
+	PIOC				12
+
+--
+Botão
+--
+
+--Pergunta 2:
+
+	Periférico			PIO(A/B/C/D)			ID PIO			BIT PIO
+
+	Botão SW300			A				10			11
